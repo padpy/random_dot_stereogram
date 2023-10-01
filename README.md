@@ -1,0 +1,3 @@
+# Random Dot Stereogram
+
+Script to produce a random dot stereogram. It produces two 150x100 images with a border seperating both from each other and the border by 5 pixels. The app depends on numpy, matplotlib, and PIL. To install dependencies run `pyhton3 -m pip install -r requirements.txt`. To run the app run `python3 random-dot-steroegram.py`. The app will produce a file named `random-dot-stereogram.png`.
